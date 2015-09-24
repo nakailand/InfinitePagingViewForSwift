@@ -1,0 +1,14 @@
+PODS:
+  - InfinitePagingViewForSwift (0.1.0)
+
+DEPENDENCIES:
+  - InfinitePagingViewForSwift (from `../`)
+
+EXTERNAL SOURCES:
+  InfinitePagingViewForSwift:
+    :path: ../
+
+SPEC CHECKSUMS:
+  InfinitePagingViewForSwift: 2340db0507086bc94889115cbf2e588f0d15df4b
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,6 @@
+framework module InfinitePagingViewForSwift {
+  umbrella header "InfinitePagingViewForSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
