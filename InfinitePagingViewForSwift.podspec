@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/nakazy/InfinitePagingViewForSwift"
   s.license          = 'MIT'
   s.author           = { "nakazy" => "s.nakajima0523@gmail.com" }
-  s.source           = { :git => "https://github.com/nakazy/InfinitePagingViewForSwift.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/nakazy/InfinitePagingViewForSwift.git", :tag => "0.1.0" }
   s.social_media_url = 'https://twitter.com/Shachikusky'
 
   s.platform     = :ios, '8.0'

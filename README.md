@@ -22,7 +22,11 @@ pod "InfinitePagingViewForSwift"
 
 ## Author
 
-nakazy, s.nakajima0523@gmail.com
+[nakazy](https://twitter.com/Shachikusky)
+
+## Inspired By
+
+[InfinitePagingView](https://github.com/caesarcat/InfinitePagingView)
 
 ## License
 
